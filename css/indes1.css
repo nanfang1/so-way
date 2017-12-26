@@ -1,0 +1,45 @@
+.navbar-default .navbar-brand {
+	font-size: 30px;
+	font-weight: bold;
+	color: #45d3b3;
+	line-height: 35px;
+}
+.navbar-default .navbar-nav>li>a{
+	font-size: 16px;
+	font-weight: bold;
+	color: #666693;
+	line-height: 35px;
+	height: 70px;
+}
+.navbar-default .navbar-toggle:hover{
+	color: #45d3b3;
+}
+.navbar{
+	margin-bottom: 0;
+}
+#home{
+	width: 100%;
+	height: 100%;
+	background-image: url(../img/home-bg.jpg);
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+}
+#home h1{
+	font-size: 30px;
+	margin: 20px 0;
+}
+#home p{
+	line-height: 30px;
+	font-weight: 600;
+}
+#home img{
+	display: inline-block;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.mengban{
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,0.5);
+}
